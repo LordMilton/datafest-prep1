@@ -1,0 +1,5 @@
+Correlation between 'programming level' and 'time spent outside of class on assignments'
+Correlation between 'programming level' and 'highest level of class taken'
+Correlation between 'reasons for doing comp sci' and 'whether or not they prefer teams'
+    Specifically 'doing it for the money' and 'whether or not they prefer teams'
+Correlation between 'time spent out of class' and 'whether or not they prefer teams'
